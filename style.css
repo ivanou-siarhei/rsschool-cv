@@ -185,6 +185,7 @@ section {
     max-width: 500px;
     background-color: #FEFDCA;
     margin: 0 auto;
+    list-style-type: none;
 }
 
 footer {
